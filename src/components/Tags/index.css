@@ -1,0 +1,27 @@
+.tag {
+  list-style-type: none;
+}
+
+.tag-button {
+  border: 1px solid #f3aa4e;
+  height: 30px;
+  border-radius: 15px;
+  padding-left: 10px;
+  padding-right: 10px;
+  color: #ffffff;
+  margin-right: 30px;
+  background-color: transparent;
+  cursor: pointer;
+}
+
+.bg-button {
+  border: 1px solid #f3aa4e;
+  height: 30px;
+  border-radius: 15px;
+  padding-left: 10px;
+  padding-right: 18px;
+  color: #ffffff;
+  margin-right: 36px;
+  background-color: #f3aa4e;
+  cursor: pointer;
+}
